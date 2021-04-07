@@ -12,3 +12,5 @@ group :test do
   gem 'sinatra'
   gem 'sinatra-contrib'
 end
+
+gem 'twilio-ruby'
